@@ -1,1 +1,2 @@
 Hi this is some sample text.
+This is more sample text.
